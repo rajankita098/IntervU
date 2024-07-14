@@ -9,12 +9,12 @@ function Hero() {
   lg:flex ">
     <div className="mx-auto max-w-xl text-center">
       <h1 className="text-3xl font-extrabold sm:text-5xl">
-        Manage Your Expence
-        <strong className="font-extrabold text-primary sm:block"> Oversee Your Finances </strong>
+      Start Your AI-Generated Mock Interview
+        <strong className="font-extrabold text-primary sm:block"> Master Your Job Interviews with Confidence </strong>
       </h1>
 
       <p className="mt-4 sm:text-xl/relaxed">
-      Save more, live better!
+      Oversee Your Career Growth!
       </p>
 
       <div className="mt-8 flex flex-wrap justify-center gap-4">
